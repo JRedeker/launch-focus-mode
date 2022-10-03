@@ -1,2 +1,2 @@
 # launch-focus-mode
-Script to begin turbo focus mode.
+A quick script to begin turbo focus mode.
